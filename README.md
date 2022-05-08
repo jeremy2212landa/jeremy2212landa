@@ -1,4 +1,4 @@
-﻿# Hi, My name is Jeremy Landa👨‍💻
+# Hi, My name is Jeremy Landa👨‍💻
  
 ## About Me
 
@@ -9,3 +9,6 @@
 - Linux | Bash | Terminal
 - PHP | Javascript | Python
 - HTML | CSS
+
+
+<h4 align="center">with love 🤍 2022</h4>
