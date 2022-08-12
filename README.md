@@ -2,7 +2,7 @@
  
 ## About Me
 
-<div align="center">Independent Security, Ethical Hacking & Computer Forensics Consultant<br></div>
+<div align="center">Independent Security, Ethical Hacking & Computer Forensics Analist<br></div>
 
 ## Skills💜
 
