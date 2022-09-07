@@ -7,7 +7,7 @@
 ## Skills💜
 
 - Linux | Bash | Terminal
-- PHP | Javascript | Python
+- PHP | Javascript | Python | GO💙
 - HTML | CSS
 
 
