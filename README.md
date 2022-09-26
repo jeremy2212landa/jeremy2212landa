@@ -1,4 +1,4 @@
-<img src="./Sn1pp3r_M4sK.png" alt="Sn1pp3r_M4sK" align="center">
+<img src="./Sn1pp3r_M4sK_transparente.png" alt="Sn1pp3r_M4sK" align="center">
 
 # Hi, My name is Jeremy Landa👨‍💻
  
