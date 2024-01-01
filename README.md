@@ -4,7 +4,7 @@
  
 ## About Me
 
-<div align="center">Independent Security, Ethical Hacking & Computer Forensics Analist<br></div>
+<div align="center">Independent Security analist, Ethical Hacking & Developer<br></div>
 
 ## Skills💜
 
