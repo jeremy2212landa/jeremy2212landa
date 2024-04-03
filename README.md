@@ -8,8 +8,8 @@
 
 ## Skills💜
 
-- Linux | Bash | Terminal
-- PHP | Javascript | Python | GO💙
+- Linux | Bash | Terminal | Powershell
+- PHP | Javascript | Python | GO | Kotlin💙
 - HTML | CSS
 
 
