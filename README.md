@@ -13,4 +13,4 @@
 - HTML | CSS
 
 
-<h4 align="center">with love 🤍 2022</h4>
+<h4 align="center">with love 🤍 2024</h4>
